@@ -1,3 +1,13 @@
+Simple Todo App with React
+
+📝 Dive into productivity with this minimalist Todo App built using React. Manage your tasks efficiently with an intuitive user interface and seamless functionality.
+
+🚀 Key Features:
+
+Add, edit, and delete tasks
+User-friendly interface with real-time updates
+Responsive design for a seamless experience on various devices
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
